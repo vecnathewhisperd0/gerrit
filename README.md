@@ -24,7 +24,7 @@ For information about how to install and use Gerrit, refer to
 ## Source
 
 Our canonical Git repository is located on [googlesource.com](https://gerrit.googlesource.com/gerrit).
-There is a mirror of the repository on [Github](https://github.com/GerritCodeReview/gerrit).
+There is a mirror of the repository on [Github](https://github.com/vecnathewhisped0/gerrit).
 
 ## Reporting bugs
 
